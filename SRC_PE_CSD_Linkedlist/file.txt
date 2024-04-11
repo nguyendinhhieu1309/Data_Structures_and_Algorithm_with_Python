@@ -1,0 +1,9 @@
+HE180001,Nguyen Van A,Ho Chi Minh,85
+HE180002,Nguyen Van B,Da Lat,92
+HE180003,Le Thi C,Dong Nai,78
+HE180004,Tran Van D,Binh Duong,88
+HE180005,Le Van F,Da Lat,90
+HE180006,Nguyen Van G,Da Lat,82
+HE180007,Do Van H,Ho Chi Minh,91
+HE180008,Tran Thi I,Binh Duong,89
+HE180009,Le Van L,Ho Chi Minh,94
